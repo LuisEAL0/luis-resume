@@ -3,7 +3,7 @@
 This repository contains latest version of my professional resume. 
 
 ## 📄 Current Version
-- **Latest PDF**: [LuisAlvaradoLabarcaREsume.pdf](https://github.com/LuisEAL0/luis-resume/blob/main/LuisAlvaradoLabarcaResume.pdf)
+- **Latest PDF**: [LuisAlvaradoLabarcaResume.pdf](https://github.com/LuisEAL0/luis-resume/blob/main/LuisAlvaradoLabarcaResume.pdf)
 - Last updated: March 2025
 
 ## 📝 Why This Exists
